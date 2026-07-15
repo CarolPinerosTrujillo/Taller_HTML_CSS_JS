@@ -1,1 +1,17 @@
 /* ARCHIVO CSS */
+
+body {
+    text-align: center;
+    font-family: Arial;
+}
+
+#contador {
+    font-size: 80px;
+    color: black;
+}
+
+button {
+    font-size: 20px;
+    margin: 10px;
+    padding: 10px 20px;
+}
